@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "theme.name": "The Night Coder",
+    "theme.kind": "Dark"
+  },
+  "textAttributes": {
+    "editor.selection": {
+      "backgroundColor": "#98FB98"
+    },
+    "editor.selection.focused": {
+      "backgroundColor": "#AFEEEE"
+    },
+    "editor.indentGuide": {
+      "foregroundColor": "#CD5C5C",
+      "textDecoration": {
+        "style": "DASHED"
+      }
+    },
+    "problem.error": {
+      "textDecoration": {
+        "color": "#8B0000",
+        "style": "SOLID",
+        "type": "UNDERLINE",
+        "thickness": 2.0
+      }
+    }
+  },
+  "colors": {
+    "tab.background.default": "#FFDEAD",
+    "tab.background.hovered": "#F5DEB3",
+    "tab.background.selected": "#E6E6FA",
+    "tab.indicator": "IndicatorColor",
+    "popup.tab.background.default": "#FFE4C4",
+    "popup.tab.background.hovered": "#D8BFD8",
+    "popup.tab.background.selected": "#E0FFFF",
+    "popup.tab.indicator": "IndicatorColor",
+    "editor.background": "#FAFAD2",
+    "editor.caret.background": "#FF7F50",
+    "editor.caret.border": "#8A2BE2",
+    "tool.background": "#7FFFD4"
+  },
+  "palette": {
+    "IndicatorColor": "#DA70D6"
+  }
+}

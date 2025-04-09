@@ -9,15 +9,16 @@ fleetPlugin {
 
     // STEP 1: chose an ID for your plugin, it must be unique
     //
-    // id = "your.plugin.id.here"
+    id = "org.agaafar.thenightcoder"
 
     // STEP 2: set up the sensible metadata for your plugin
-    // metadata {
-    //     readableName = "Your plugin name here"
-    //     description = "Your plugin description here"
-    // }
+    metadata {
+        readableName = "The Night Coder"
+        description = "a theme build for night coders that love red and black"
+        // }
 
-    fleetRuntime {
-        version = libs.versions.fleet.runtime
+        fleetRuntime {
+            version = libs.versions.fleet.runtime
+        }
     }
 }
