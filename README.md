@@ -1,21 +1,67 @@
-# fleet-theme-plugin-template
+# Red & Black Fleet Theme
 
-[![JetBrains official project](http://jb.gg/badges/official.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
-[![GitHub license](https://img.shields.io/badge/license-APACHE_2.0-blue.svg)](https://github.com/JetBrains/fleet-plugin-template/blob/main/LICENSE.md)
+![JetBrains Plugin](https://img.shields.io/jetbrains/plugin/v/27028?label=JetBrains%20Marketplace)
+[![License: MIT](https://img.shields.io/badge/license-MIT-yellow.svg)](LICENSE)
 
-**JetBrains Fleet Theme Plugin Template** is a repository that provides a template to create custom themes for
-[JetBrains Fleet][fleet:website].
+A custom red & black theme for JetBrains Fleet — designed by night coders, for night coders.  
+Created by [Ahmed Gaafar](https://agaafar.framer.website), this theme delivers a bold, high-contrast visual experience for focused late-night development.
 
-## Documentations
+---
 
-- TODO: [Theme Documentation]<!--TODO: [fleet:theme-documentation]-->
-- [Fleet Plugin SDK Documentation][fleet:sdk-documentation]
-- [Examples: Fleet Theme plugin][fleet:theme-plugin-example]
+## 🎨 Features
 
-[fleet:website]: https://www.jetbrains.com/fleet/
+- 🟥 Elegant **Red & Black** color palette
+- 🌙 Designed specifically for **dark environments**
+- 🧠 Focus-driven UI with **minimal distractions**
+- ⚡ Built for **JetBrains Fleet IDE**
 
-[fleet:theme-documentation]: TODO
+---
 
-[fleet:theme-plugin-example]: https://github.com/JetBrains/fleet-sdk-gradle-plugin/tree/main/examples/theme-plugin
+## 🚀 Getting Started
 
-[fleet:sdk-documentation]: https://github.com/JetBrains/fleet-sdk-gradle-plugin
+### 1. Install the Plugin
+- Open **JetBrains Fleet**
+- Go to **Plugins**
+- Search for **Red & Black Fleet Theme**
+- Click **Install**
+
+### 2. Apply the Theme
+- Open **Settings**
+- Navigate to **Appearance > Theme**
+- Select **Red & Black Fleet Theme**
+
+You're now rocking a sleek and powerful new look! 😎
+
+---
+
+## 📸 Screenshots
+
+> Coming soon: Demo screenshots and preview GIFs
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## 👤 Author
+
+**Ahmed Gaafar**  
+Flutter & Android Developer | Software Engineer  
+🌐 [Portfolio](https://agaafar.framer.website)
+
+---
+
+## 🤝 Contributing
+
+Pull requests and suggestions are welcome!  
+If you’d like to contribute improvements or custom variants, feel free to fork the repo and open a PR.
+
+---
+
+## 📬 Contact
+
+For feedback or inquiries, visit  
+🔗 [https://agaafar.framer.website](https://agaafar.framer.website)
