@@ -15,10 +15,9 @@ fleetPlugin {
     metadata {
         readableName = "The Night Coder"
         description = "a theme build for night coders that love red and black"
-        // }
+    }
 
-        fleetRuntime {
-            version = libs.versions.fleet.runtime
-        }
+    fleetRuntime {
+        version = libs.versions.fleet.runtime
     }
 }
